@@ -1,2 +1,2 @@
-# Projeto-Lampada
-Mini Projeto   JS/ Fernando Leonid
+
+[IMC.zip](https://github.com/katielletorres/Projeto-Lampada/files/9670002/IMC.zip)
